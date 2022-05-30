@@ -1,0 +1,25 @@
+body {
+    background:#000;
+    color:white;
+    text-align: center;
+}
+
+.divAll{
+    display: flex;
+}
+.divStat{
+   
+      display: flex;
+    flex-direction: column;
+    height: 150px;
+    flex-wrap: wrap;
+    width: 50%;
+}
+.divImg{
+    width: 50%;
+}
+
+.titleStat{
+    text-align:left;
+    margin-left: 40px;
+}
